@@ -1,0 +1,10 @@
+I'm not slacking off:
+
+My Pull Request is being reviewed
+My code is compiling
+My CI job is queued
+My test suite is running
+My code is deploying
+I'm writing RFP responses
+I'm boosting morale
+Stack Overflow is down
